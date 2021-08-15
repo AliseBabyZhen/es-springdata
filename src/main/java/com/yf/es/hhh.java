@@ -1,5 +1,7 @@
 package com.yf.es;
 
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 /**
  * @PROJECT_NAME: es-springdata
  * @DESCRIPTION:
@@ -8,6 +10,9 @@ package com.yf.es;
  */
 public class hhh {
     public static void main(String[] args) {
+
+        System.out.println(8888);
         System.out.println(9999);
     }
+
 }
