@@ -14,6 +14,7 @@ public class hhh {
         System.out.println(8888);
         System.out.println(9999);
         System.out.println(6666);
+        System.out.println(1111);
     }
 
 }
