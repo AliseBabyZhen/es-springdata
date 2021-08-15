@@ -19,6 +19,7 @@ public class hhh {
 
         System.out.println(6666);
         System.out.println(6666);
+        System.out.println(0000);
 
     }
 
