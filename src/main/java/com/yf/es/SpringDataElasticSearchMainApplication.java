@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringDataElasticSearchMainApplication {
     public static void main(String[] args) {
-        System.out.println(1);
+        System.out.println(1111111);
 
         SpringApplication.run(SpringDataElasticSearchMainApplication.class,args);
     }
